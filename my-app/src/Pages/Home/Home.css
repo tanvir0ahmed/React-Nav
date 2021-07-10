@@ -1,0 +1,109 @@
+body{
+   background-color: rgb(0, 0, 0);
+}
+
+.landing-page{
+    margin-top: 7%;
+    height: 100vh;
+}
+
+.landing-page .content .name{
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    font-size: 60px;
+    font-weight: 600;
+    color: saddlebrown;
+}
+
+.landing-page .content{
+    margin-top: 15%;
+}
+
+.landing-page .content h3,p,button{
+    margin-top: 3%;
+}
+
+.landing-page .content .hire{
+    width: 200px;
+    height: auto;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.landing-page .row .image{
+    width: 500px;
+    height: 500px;
+    margin-left: 8%;
+    
+}
+
+
+/* know */
+
+.landing-page .know .container .col-lg-4{
+    margin-top: 4%;
+}
+
+.landing-page .know .container .row{
+    background: #242424;
+}
+
+.landing-page .know{
+    margin-top: 20%;
+    
+    
+}
+
+.landing-page .know .row{
+    margin-top: 10%;
+    border-radius: 8px;
+    
+}
+
+.landing-page .know .row h4, .know-para{
+    text-align: center;
+    color: rgb(109, 108, 108);
+}
+
+/* about */
+
+.landing-page .about{
+    margin-top: 20%;
+    
+}
+
+.landing-page .about .row{
+    margin-top: 10%;
+}
+
+.landing-page .about .row .about-image{
+    width: 400px;
+    height: 400px;
+}
+
+.landing-page .about .row .col-sm-12 .about-intro{
+    font-size: 55px;
+    font-weight: 600;
+    letter-spacing: 15px;
+    color: saddlebrown;
+    text-transform: uppercase;
+}
+
+.landing-page .about .row .col-sm-12 .about-para{
+    color: rgb(109, 108, 108);
+    margin-top: 4%;
+}
+
+.landing-page .about .row .col-sm-12 .download-cv{
+    width: 200px;
+    text-transform: uppercase;
+   
+    
+}
+
+.landing-page .about .read-more{
+    margin-top: 6%;
+}
+
+
+
